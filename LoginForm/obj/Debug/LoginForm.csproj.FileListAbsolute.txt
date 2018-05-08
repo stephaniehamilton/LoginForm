@@ -1,0 +1,10 @@
+C:\Users\Steph&Jeff\Source\Repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Steph&Jeff\Source\Repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Steph&Jeff\Source\Repos\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Steph&Jeff\Source\Repos\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\Steph&Jeff\Source\Repos\LoginForm\LoginForm\obj\Debug\LoginForm.loginForm.resources
+C:\Users\Steph&Jeff\Source\Repos\LoginForm\LoginForm\obj\Debug\LoginForm.frmLoggedIn.resources
+C:\Users\Steph&Jeff\Source\Repos\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Steph&Jeff\Source\Repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\Steph&Jeff\Source\Repos\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Steph&Jeff\Source\Repos\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
